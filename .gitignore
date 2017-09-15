@@ -1,0 +1,8 @@
+target
+*.iml
+*.iws
+.DS_Store
+.localized
+.project
+.settings
+.idea
